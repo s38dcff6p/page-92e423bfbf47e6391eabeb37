@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "df9733536e83dd0965a84064",
+  "owner": "s38dcff6p",
+  "repo": "page-92e423bfbf47e6391eabeb37",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "92e423bfbf47e6391eabeb37",
+      "a": "oixCloud",
+      "b": "免费订阅分享",
+      "entity": "oixCloud",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3db184caa426eed33bf1bf0816ac79094f93882d0beffbce352952a409658cb0",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅导入后按客户端文档配置规则。",
+          "AI_CLIENTS_TITLE": "选择你的客户端",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑选套餐，在对应客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，导入订阅",
+          "AI_DESCRIPTION": "，oixCloud 提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起步，年付可低至 ¥150/年。设备覆盖从 3 台到 20 台同时在线，流量从每月 100GB 到 1000GB，旗舰版与团队版配备 IPLC 专线与 VIP 高带宽节点，适合流媒体解锁与游戏加速场景。按需挑选套餐，用订阅方式配置客户端。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度挑选，满足不同使用规模。",
+          "AI_FEATURES_TITLE": "按需挑选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台、旗舰版 300GB/5 台、团队版 1000GB/20 台，按设备与流量选。",
+          "AI_FEATURE_TEXT_2": "个人手机与电脑用基础版起步，多设备家庭或团队可选旗舰版与团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活试水，年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置的流程。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "oixCloud 提供从基础版到团队版的多档套餐，覆盖 3 至 20 台设备同时在线，流量从每月 100GB 到 1000GB。旗舰版与团队版配备 IPLC 专线与 VIP 高带宽节点，适合流媒体解锁与游戏加速。挑选合适套餐后，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量挑选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，轻量够用",
+          "AI_HIGHLIGHT_2": "旗舰版配 IPLC 专线，游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，支持定制路由",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合多设备流媒体与游戏，团队版适合多人与企业场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量预估，从基础版、旗舰版、团队版中选择一档；需要流媒体或游戏优化可优先看旗舰版。",
+          "AI_STEP_TEXT_2": "确认套餐支持的设备数量与节点类型，检查自己的手机、电脑或路由器是否在覆盖范围内。",
+          "AI_STEP_TEXT_3": "获取订阅地址后，打开对应客户端，按照客户端文档导入订阅并更新节点列表。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "oixCloud 套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机加电脑的轻量使用场景。",
+          "AI_FAQ_ANSWER_2": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按月付费也可随时切换。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，覆盖手机、平板、电脑等常用终端。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中添加订阅地址，更新节点后选择对应线路连接；具体步骤可参考客户端自带文档。",
+          "AI_FAQ_ANSWER_5": "先确认主要使用的设备数量与月流量需求，再对比各套餐年付价格，旗舰版适合多设备流媒体与游戏加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "642a4ed286ebf61f982a2bcb29a09a61b7d8964fce573f359ed2138b2508ed2f",
+    "sitemap.xml": "402011586270b5762bb3afad46ce8edbd18ad90daa69e3a3ce2053d461a9f0b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "75b0d5886136d892ebea73df2f8d462c99e2d08ff329f0815c6d297c4568202b"
+}
